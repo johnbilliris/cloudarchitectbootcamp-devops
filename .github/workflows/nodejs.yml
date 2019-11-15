@@ -1,6 +1,3 @@
-![Build Status](https://github.com/actions/cloudarchitectbootcamp-devops/workflows/Node%CI/badge.svg)
-
-
 name: Node CI
 
 on: 
